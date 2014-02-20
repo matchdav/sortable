@@ -1,0 +1,16 @@
+{
+  "name": "sortable",
+  "repo": "matchdav/sortable",
+  "description": "jQuery-free sortable magic happiness.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "Sortable.min.js",
+    "Sortable.js"
+  ]
+}
