@@ -130,7 +130,7 @@
 
 			//IE 9 Support
 			if( target && evt.type == 'selectstart' ){
-				if( target.tagName != 'A' && target.tagName != 'IMG'){
+				if( target.tagName != 'A' && target.tagName != 'IMG' && target.dragDrop){
 					target.dragDrop();
 				}
 			}
